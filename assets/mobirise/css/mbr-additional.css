@@ -1065,6 +1065,33 @@ section.lazy-placeholder:after {
 .cid-s2oSiUW0OS H1 {
   text-align: center;
 }
+.cid-s2FyhLNn0c {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-s2FyhLNn0c p {
+  color: #767676;
+}
+.cid-s2FyhLNn0c .item:focus,
+.cid-s2FyhLNn0c span:focus {
+  outline: none;
+}
+.cid-s2FyhLNn0c .item {
+  padding-bottom: 3rem;
+  cursor: pointer;
+}
+.cid-s2FyhLNn0c .item-wrapper {
+  position: relative;
+}
+.cid-s2FyhLNn0c .item-btn,
+.cid-s2FyhLNn0c h4,
+.cid-s2FyhLNn0c h5 {
+  margin: 0;
+}
+.cid-s2FyhLNn0c .item-content {
+  padding-top: 2rem;
+}
 .cid-s2oWUcKktu {
   padding-top: 0px;
   padding-bottom: 75px;
