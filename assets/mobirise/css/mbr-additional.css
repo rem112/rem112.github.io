@@ -1067,7 +1067,7 @@ section.lazy-placeholder:after {
 }
 .cid-s4DXeHkMMZ {
   padding-top: 0px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-s4DXeHkMMZ h4 {
@@ -1083,6 +1083,26 @@ section.lazy-placeholder:after {
   padding-top: 2rem;
 }
 .cid-s4DXeHkMMZ .card-wrapper {
+  height: 100%;
+}
+.cid-s4My7KRxO8 {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-s4My7KRxO8 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-s4My7KRxO8 p {
+  color: #767676;
+  text-align: left;
+}
+.cid-s4My7KRxO8 .card-box {
+  padding-top: 2rem;
+}
+.cid-s4My7KRxO8 .card-wrapper {
   height: 100%;
 }
 .cid-s0wJxUpiSR {
